@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab06_ArdaUgurlu {
+public class soundex {
 
 
     /** * This is a simple description of the method isAlphaWord. 
