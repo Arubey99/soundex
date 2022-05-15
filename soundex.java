@@ -4,7 +4,7 @@ public class soundex{
 
 
     /** * This is a simple description of the method isAlphaWord. 
-     * @param word takes a word as a parameter.
+     * @param takes a word as a parameter.
      * @return boolean true if all characters are alphabetic, false if not.
     */
 
